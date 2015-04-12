@@ -1,0 +1,182 @@
+body {
+background: url("http://i.imgur.com/4utw280.png?1") no-repeat;
+background-color:#86C3E3;
+background-size: 1000px;
+}
+.ps-room.ps-room-opaque {
+background:rgba(134, 195, 227, 0.9);
+}
+.rightbar, .leftbar {
+background:rgba(134, 195, 227, 0.3);
+}
+.header .logo {
+opacity: 0;
+}
+.battleform label {
+background: url("http://i.imgur.com/yFWeHx0.png") no-repeat scroll left center transparent !important;
+padding: 4px;
+opacity:0.9;
+color: #FFF;
+}
+.menugroup {
+background: rgba(0, 0, 0, 0);
+}
+.maintabbarbottom {
+background: #FFF;
+border: 1px solid #000;
+box-shadow: none;
+}
+.tabbar a.button.cur, .tabbar a.button.cur:hover {
+color: #000;
+background: #FFF;
+border: 1px solid #000;
+font-family: helvetica,arial,sans-serif;
+text-shadow: none;
+}
+.roomintro-div {
+background:url(http://i.imgur.com/Q8vHT0Y.png);
+opacity: 0.95;
+text-align:center;
+font-family: helvetica,arial,sans-serif;
+}
+.tabbar a.button {
+color: #000;
+background:#B7E1F9;
+border: 1px solid #000;
+font-family: helvetica,arial,sans-serif;
+text-shadow: none;
+}
+.tabbar a.button:hover {
+color: #000;
+background: #F2FBFF;
+border: 1px solid #000;
+font-family: helvetica,arial,sans-serif;
+text-shadow: none;
+}
+#header {
+background:url(http://i.imgur.com/XkjakIM.png);
+}
+.broadcast-red {
+background: none repeat scroll 0% 0% #EC5C4D;
+color: #000;
+border: 2px solid #000;
+padding: 5px;
+font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+font-size: 10pt;
+}
+.broadcast-blue {
+background: none repeat scroll 0% 0% #8FA6B3;
+color: #000;
+border: 2px solid #000;
+padding: 5px;
+font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+font-size: 10pt;
+}
+.broadcast-green {
+background: none repeat scroll 0% 0% #9BB38F;
+color: #000;
+border: 2px solid #000;
+padding: 5px;
+font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+font-size: 10pt;
+}
+.menugroup .button {
+border:2px solid #383839;
+background:rgba(255, 255, 255, 0.9);
+color:#383839;
+font-family: helvetica,arial,sans-serif;
+text-shadow:none;
+}
+.menugroup .button:hover {
+border:2px solid #000;
+background:#FFF;
+color:#000;
+font-family: helvetica,arial,sans-serif;
+text-shadow:none;
+}
+.roomlist a.ilink {
+font-size:14px;
+font-family: Tahoma, Verdana, Segoe, sans-serif;
+font-weight:bold;
+opacity:0.9;
+color:#fbfbfb;
+text-transform: uppercase;
+text-align:left;
+text-shadow: 1px 1px 1px #4d4d4d,
+1px 0px 1px #4d4d4d;
+background: url(http://i.imgur.com/DqmewkB.png);
+box-shadow:none;
+border-radius:0px;
+border-width:0;
+width:642px;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:12px;
+}
+.roomlist a.ilink:hover{
+font-size:14px;
+opacity:0.9;
+font-family: Tahoma, Verdana, Segoe, sans-serif;
+font-weight:bold;
+color:#fbfbfb;
+text-transform: uppercase;
+text-shadow: 1px 1px 1px #4d4d4d,
+1px 0px 1px #4d4d4d;
+background: url(http://i.imgur.com/UoUnGNL.png);
+box-shadow:none;
+border-radius:0px;
+border-width:0;
+width:642px;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:12px;
+}
+.userlist {
+border-right:none;
+}
+.userlist li button {
+font-family: helvetica,arial,sans-serif;
+}
+.chat-log {
+border:1px solid #CECECE;
+font-family: helvetica,arial,sans-serif;
+}
+.pm-log, .battle-log {
+background:url(http://i.imgur.com/Q8vHT0Y.png);
+opacity: 0.9;
+font-family: helvetica,arial,sans-serif;
+}
+.pm-window h3 {
+border: 2px solid #383839;
+color: #383839;
+background:rgba(134, 195, 227, 0.8);
+}
+.pm-window h3:hover, .pm-window.focused h3, .pm-window.focused h3:hover {
+border: 2px solid #000;
+color: #000;
+}
+.mainmenufooter a {
+color:#6853A0;
+text-shadow: none;
+text-decoration: none;
+font-weight:bold;
+}
+.mainmenufooter a:hover {
+color:#4F3E7D;
+text-shadow: none;
+text-decoration: none;
+font-weight:bold;
+}
+.chatbox textarea {
+font-family: helvetica,arial,sans-serif;
+}
+.ps-popup {
+background:url(http://i.imgur.com/Q8vHT0Y.png);
+}
+.emote-chat {
+  background: none;
+  border: 0;
+  padding: 0 5px 0 0;
+  font-family: Verdana;
+  font-size: 9pt;
+}
