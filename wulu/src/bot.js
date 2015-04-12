@@ -8,7 +8,7 @@ export default class Bot {
    * @param {Array} rooms
    */
 
-  constructor(name='Booty-Bot', avatar=1, group='@', rooms=['global', 'lobby']) {
+  constructor(name='Lightning Bot', avatar=1, group='@', rooms=['global', 'lobby']) {
     this.name = name;
     this.avatar = avatar;
     this.group = group;
